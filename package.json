@@ -1,6 +1,7 @@
 {
   "name": "roadmap.sh",
   "type": "module",
+  "homepage": "https://vaishakh3.github.io/developer-roadmap/",
   "version": "1.0.0",
   "private": true,
   "scripts": {
